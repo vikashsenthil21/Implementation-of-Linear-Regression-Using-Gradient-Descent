@@ -97,13 +97,14 @@ print("For population = 70000,we predict a profit of $"+str(round(predict2,0)))
 ```
 ## Output:
 
-![ml31](https://github.com/Dhanudhanaraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119218812/6e8aea4f-5f04-4c74-9d45-e0a90be8c26f)
+![image](https://github.com/vikashsenthil21/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119433834/e753dcde-f99b-49d0-a77a-07a019d8f4c0)
 
-![ml32](https://github.com/Dhanudhanaraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119218812/c294b428-b571-4d8f-9389-98234978ed01)
+![image](https://github.com/vikashsenthil21/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119433834/24807535-c589-412f-a5dd-7aeecd21b6eb)
+![image](https://github.com/vikashsenthil21/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119433834/fdd03faf-ab32-4588-b555-d926e85ccd8f)
 
-![ml33](https://github.com/Dhanudhanaraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119218812/1df3e131-707f-4d35-b9ac-eda180835aa9)
 
-![ml34](https://github.com/Dhanudhanaraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119218812/417c5f22-59cc-4cd5-93d0-be913ab87007)
+
+
 
 ## Result:
 
