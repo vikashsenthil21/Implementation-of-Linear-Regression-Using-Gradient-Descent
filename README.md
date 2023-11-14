@@ -1,4 +1,4 @@
-# Implementation-of-Linear-Regression-Using-Gradient-Descent
+# EXNO-03-Implementation-of-Linear-Regression-Using-Gradient-Descent
 
 ## AIM:
 
